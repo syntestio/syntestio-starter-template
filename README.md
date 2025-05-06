@@ -19,11 +19,9 @@ This repository serves as a starter template for creating automated tests using 
 Update both configuration files with your Syntestio API key and application URL:
 
 ```json
-// In config.json and config.ci.json
 {
   "apiKey": "YOUR_API_KEY_HERE",
-  "appUrl": "YOUR_APP_URL_HERE",
-  ...
+  "appUrl": "YOUR_APP_URL_HERE"
 }
 ```
 
