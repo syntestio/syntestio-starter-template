@@ -1,0 +1,13 @@
+{
+    "apiKey": "PUT YOUR API KEY HERE",
+    "appUrl": "PUT YOUR APP URL HERE",
+    "scenarioFileDirs": [
+      "tests"
+    ],
+    "isDebug": false,
+    "isReasoning": false,
+    "headless": true,
+    "saveResult": true,
+    "retryWhenFail": 1,
+    "tags": []
+  }
